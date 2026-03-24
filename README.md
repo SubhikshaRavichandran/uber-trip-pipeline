@@ -5,6 +5,7 @@
   <p><b>An enterprise-grade, highly-available, end-to-end data lakehouse pipeline for ride-share telemetry.</b></p>
   <br/>
 <div align="center">
+<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Uber+Trip+Analytics+Pipeline" alt="Typing SVG" />
 
